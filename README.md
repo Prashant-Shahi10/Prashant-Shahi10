@@ -1,18 +1,48 @@
-# 💫 About Me:
-<br>👯 Graduated in diploma of cyber security<br>🤝 I’m looking for help with coding, python, java script<br>🌱 I’m currently studying bachelor of Information System<br>💬 <br>⚡ Fun fact: I am an athlete person, I love playing football, table tennis, badminton.<br>eSports: Pubg mobile , football.
+# Hi, I'm Prashant Shahi 👋
 
+### ICT Support | Information Systems Graduate | Cybersecurity Enthusiast
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@mrkaji278?si=OWauxQEJVEs9zslR) 
+I'm an Information Systems graduate based in Sydney, Australia, with hands-on experience supporting technology and operations in a warehouse, publishing and fulfilment environment. My work connects **IT troubleshooting, enterprise applications, order-processing systems and process improvement**.
 
-# 💻 Tech Stack:
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prashant-Shahi10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Shahi10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Shahi10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy investigating technical issues, helping colleagues get systems working, and identifying opportunities to make everyday workflows more reliable and efficient.
+
+## 🛠️ What I Work With
+
+- **ICT support:** day-to-day technical troubleshooting, user assistance and operational issue investigation
+- **Enterprise systems:** PeopleSoft and iPalm workflows, order processing and inventory-related systems
+- **Warehouse technology:** shipping labels, printers, dispatch workflows and carrier booking platforms
+- **Systems integration:** exploring EDI, APIs and webhooks for e-commerce and fulfilment processes
+- **Process improvement:** spotting repetitive tasks, documenting issues and exploring automation opportunities
+
+## 🎓 Education
+
+- **Bachelor of Information Systems** — completed in 2026
+- **Diploma of Cyber Security**
+
+## 🌱 Currently Learning
+
+- Python and JavaScript
+- Software development fundamentals and Git/GitHub
+- Automation, API integrations and practical IT support projects
+- Networking, troubleshooting and cybersecurity fundamentals
+
+## 🚀 Projects I Want to Build
+
+- **IT Help Desk Toolkit:** scripts and documentation for common support issues
+- **Order & Inventory Workflow Dashboard:** an example system for tracking fulfilment processes
+- **Shipping Workflow Automation:** a practice integration using mock orders and carrier data
+- **Support Knowledge Base:** clear, reusable troubleshooting guides
+
+*These are learning goals and project ideas, not claims of completed production systems. Any examples will use synthetic data rather than employer or customer information.*
+
+## ⚽ Beyond Tech
+
+I enjoy football, table tennis, badminton and gaming.
+
+## 📫 Connect
+
+- **GitHub:** [@Prashant-Shahi10](https://github.com/Prashant-Shahi10)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prashant-Shahi10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->[ReadMe (1).md](https://github.com/user-attachments/files/15942067/ReadMe.1.md)
-
+*Building practical skills at the intersection of ICT support, systems integration and automation.*
